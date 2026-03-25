@@ -8,6 +8,12 @@ This is the official implementation of "Emergence of Grid-Cell-Like Representati
 - Ubuntu 22.04.5 LTS
 - CUDA Version: 12.2
 
+## Installation
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Training
 
 ```bash
