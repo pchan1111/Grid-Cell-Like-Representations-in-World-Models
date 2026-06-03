@@ -20,3 +20,13 @@ pip install -r requirements.txt
 chmod +x train.sh
 ./train.sh
 ```
+
+## Acknowledgements
+
+This implementation is based on and adapted from the official STORM implementation:
+
+- STORM: Efficient Stochastic Transformer based World Models for Reinforcement Learning  
+  https://github.com/weipu-zhang/STORM
+
+We thank the authors of STORM for making their code publicly available.
+
